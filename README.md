@@ -1,6 +1,6 @@
 # 日本語
-## こんにちは
-## さようなら
+ こんにちは
+ さようなら
 # English
-## Hello
-## See you
+ Hello
+ See you
